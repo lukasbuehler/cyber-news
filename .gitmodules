@@ -1,0 +1,6 @@
+[submodule "cyber-news-crawler"]
+	path = cyber-news-crawler
+	url = https://github.com/lukasbuehler/cyber-news-crawler.git
+[submodule "cyber-news-interface"]
+	path = cyber-news-interface
+	url = https://github.com/lukasbuehler/cyber-news-interface.git
